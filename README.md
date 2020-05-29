@@ -6,3 +6,19 @@ The component gives you a nice interface to manage the strings of your applicati
 ## How XLIFF works?
 4D uses xliff files to manage translations in an application. For more details, I invite you to read more on the 4D Documentation : Appendix B: XLIFF architecture.
 You can also refer to the official XLIFF 1.1 Specification.
+
+### Documentation
+
+[wiki AJ_Tools_xliff](https://github.com/AJARProject/AJ_Tools_xliff/wiki)
+
+
+### Variables Footprint
+
+The component has a very small footprint which is : 
+
+* Interprocess variables size : 28 bytes
+* Process variables size : 216 bytes
+
+### Contact
+
+If you find any bug, have any issue, need a specific feature or simply need a license, please contact us at info@ajar.ch.
