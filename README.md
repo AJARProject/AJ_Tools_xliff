@@ -20,6 +20,11 @@ The component has a very small footprint which is :
 * Interprocess variables size : 28 bytes
 * Process variables size : 216 bytes
 
+### Version
+
+Minimal 4D Version : 
+ - 17 R6
+
 ### Contact
 
 If you find any bug, have any issue, need a specific feature or simply need a license, please contact us at info@ajar.ch.
